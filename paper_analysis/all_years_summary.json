@@ -1,0 +1,111 @@
+[
+  {
+    "year": "2023",
+    "file": "2023年MathorCup大数据竞赛优秀论文-1.pdf",
+    "team": "MCB2302202",
+    "title": "队伍编号 MCB2302202",
+    "models": [
+      "集成学习",
+      "PCA"
+    ],
+    "text_len": 6844
+  },
+  {
+    "year": "2023",
+    "file": "2023年MathorCup大数据竞赛优秀论文-2.pdf",
+    "team": "MCB2303012",
+    "title": "队伍编号 MCB2303012",
+    "models": [
+      "ResNet",
+      "CNN"
+    ],
+    "text_len": 5018
+  },
+  {
+    "year": "2023",
+    "file": "2023年MathorCup大数据竞赛优秀论文-3.pdf",
+    "team": "MCB2302973",
+    "title": "队伍编号 MCB2302973",
+    "models": [
+      "注意力机制",
+      "卷积神经",
+      "注意力"
+    ],
+    "text_len": 8650
+  },
+  {
+    "year": "2023",
+    "file": "2023年MathorCup大数据竞赛优秀论文-4.pdf",
+    "team": "MCB2300890",
+    "title": "队伍编号 MCB2300890",
+    "models": [
+      "交叉验证",
+      "Transformer"
+    ],
+    "text_len": 5103
+  },
+  {
+    "year": "2023",
+    "file": "2023年MathorCup大数据竞赛优秀论文-5.pdf",
+    "team": "MCB2302397",
+    "title": "队伍编号 MCB2302397",
+    "models": [
+      "交叉验证",
+      "XGBoost",
+      "滑动窗口",
+      "指数平滑",
+      "集成学习",
+      "XGB",
+      "LSTM",
+      "K-means",
+      "LightGBM",
+      "SVM",
+      "ARIMA"
+    ],
+    "text_len": 8988
+  },
+  {
+    "year": "2023",
+    "file": "2023年MathorCup大数据竞赛优秀论文-6.pdf",
+    "team": "MCB2302926",
+    "title": "队伍编号 MCB2302926",
+    "models": [
+      "PCA",
+      "LSTM",
+      "时间序列",
+      "主成分",
+      "ARIMA"
+    ],
+    "text_len": 9518
+  },
+  {
+    "year": "2023",
+    "file": "2023年MathorCup大数据竞赛优秀论文-7.pdf",
+    "team": "MCB2301622",
+    "title": "队伍编号 MCB2301622",
+    "models": [
+      "皮尔逊",
+      "集成学习",
+      "DBSCAN",
+      "随机森林",
+      "指数平滑",
+      "SVM",
+      "主成分",
+      "ARIMA",
+      "Stacking"
+    ],
+    "text_len": 6184
+  },
+  {
+    "year": "2023",
+    "file": "2023年MathorCup大数据竞赛优秀论文-8.pdf",
+    "team": "MCB2302632",
+    "title": "队伍编号 MCB2302632",
+    "models": [
+      "时间序列",
+      "ARIMA",
+      "灰色预测"
+    ],
+    "text_len": 7739
+  }
+]

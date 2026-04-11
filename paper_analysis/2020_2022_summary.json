@@ -1,0 +1,318 @@
+[
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道A优秀论文1.pdf",
+    "team": "",
+    "title": "队伍编号: 244",
+    "models": [
+      "时间序列"
+    ],
+    "text_len": 5339
+  },
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道A优秀论文2.pdf",
+    "team": "",
+    "title": "队伍编号 335",
+    "models": [
+      "时间序列",
+      "随机森林",
+      "LSTM"
+    ],
+    "text_len": 8104
+  },
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道A优秀论文3.pdf",
+    "team": "",
+    "title": "队伍编号 366",
+    "models": [],
+    "text_len": 7401
+  },
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道A优秀论文4.pdf",
+    "team": "",
+    "title": "队伍编号 824",
+    "models": [
+      "时间序列",
+      "滑动窗口"
+    ],
+    "text_len": 4359
+  },
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道A优秀论文5.pdf",
+    "team": "",
+    "title": "队伍编号 1771",
+    "models": [
+      "LSTM"
+    ],
+    "text_len": 6482
+  },
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道B优秀论文1.pdf",
+    "team": "",
+    "title": "队伍编号 382",
+    "models": [
+      "U-Net"
+    ],
+    "text_len": 8306
+  },
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道B优秀论文2.pdf",
+    "team": "",
+    "title": "队伍编号 604",
+    "models": [],
+    "text_len": 4549
+  },
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道B优秀论文3.pdf",
+    "team": "",
+    "title": "队伍编号 1248",
+    "models": [
+      "U-Net",
+      "卷积神经",
+      "集成学习"
+    ],
+    "text_len": 7437
+  },
+  {
+    "year": "2020",
+    "file": "2020年MathorCup大数据竞赛赛道B优秀论文4.pdf",
+    "team": "",
+    "title": "队伍编号 1927",
+    "models": [
+      "随机森林",
+      "集成学习"
+    ],
+    "text_len": 6860
+  },
+  {
+    "year": "2021",
+    "file": "2021年MathorCup大数据竞优秀论文1.pdf",
+    "team": "MCB2100090",
+    "title": "队伍编号 MCB2100090",
+    "models": [
+      "贝叶斯优化",
+      "LightGBM",
+      "K-Means",
+      "XGB",
+      "XGBoost",
+      "随机森林",
+      "贝叶斯",
+      "CatBoost",
+      "Stacking"
+    ],
+    "text_len": 4817
+  },
+  {
+    "year": "2021",
+    "file": "2021年MathorCup大数据竞优秀论文2.pdf",
+    "team": "MCB2102360",
+    "title": "队伍编号 MCB2102360",
+    "models": [
+      "随机森林",
+      "GRU"
+    ],
+    "text_len": 7187
+  },
+  {
+    "year": "2021",
+    "file": "2021年MathorCup大数据竞优秀论文3.pdf",
+    "team": "MCB2100593",
+    "title": "队伍编号 MCB2100593",
+    "models": [
+      "贝叶斯优化",
+      "LightGBM",
+      "XGB",
+      "XGBoost",
+      "贝叶斯",
+      "CatBoost",
+      "Stacking"
+    ],
+    "text_len": 7057
+  },
+  {
+    "year": "2021",
+    "file": "2021年MathorCup大数据竞优秀论文4.pdf",
+    "team": "MCB2102791",
+    "title": "队伍编号 MCB2102791",
+    "models": [
+      "强化学习",
+      "Transformer"
+    ],
+    "text_len": 8606
+  },
+  {
+    "year": "2021",
+    "file": "2021年MathorCup大数据竞优秀论文5.pdf",
+    "team": "MCB2102542",
+    "title": "队伍编号 MCB2102542",
+    "models": [],
+    "text_len": 6884
+  },
+  {
+    "year": "2021",
+    "file": "2021年MathorCup大数据竞优秀论文6.pdf",
+    "team": "MCB2102047",
+    "title": "队伍编号 MCB2102047",
+    "models": [
+      "灰色关联",
+      "XGB",
+      "GBDT",
+      "BP",
+      "XGBoost",
+      "Boosting",
+      "Bagging",
+      "随机森林",
+      "Stacking",
+      "集成学习"
+    ],
+    "text_len": 7806
+  },
+  {
+    "year": "2021",
+    "file": "2021年MathorCup大数据竞优秀论文7.pdf",
+    "team": "MCB2100868",
+    "title": "队伍编号 MCB2100868",
+    "models": [
+      "SVM",
+      "LightGBM",
+      "XGB",
+      "XGBoost",
+      "随机森林",
+      "交叉验证"
+    ],
+    "text_len": 12263
+  },
+  {
+    "year": "2021",
+    "file": "2021年MathorCup大数据竞优秀论文8.pdf",
+    "team": "MCB2100805",
+    "title": "队伍编号 AMCB2100805",
+    "models": [
+      "贝叶斯优化",
+      "LightGBM",
+      "XGB",
+      "XGBoost",
+      "随机森林",
+      "贝叶斯",
+      "集成学习"
+    ],
+    "text_len": 7380
+  },
+  {
+    "year": "2022",
+    "file": "2022年MathorCup大数据竞赛优秀论文-1.pdf",
+    "team": "MCB2200703",
+    "title": "队伍编号 MCB2200703",
+    "models": [
+      "网格搜索",
+      "XGB",
+      "XGBoost",
+      "主成分",
+      "五折交叉",
+      "随机森林",
+      "交叉验证",
+      "PCA",
+      "集成学习"
+    ],
+    "text_len": 4171
+  },
+  {
+    "year": "2022",
+    "file": "2022年MathorCup大数据竞赛优秀论文-2.pdf",
+    "team": "MCB2200029",
+    "title": "队伍编号 MCB2200029",
+    "models": [],
+    "text_len": 7637
+  },
+  {
+    "year": "2022",
+    "file": "2022年MathorCup大数据竞赛优秀论文-3.pdf",
+    "team": "MCB2201112",
+    "title": "队伍编号 MCB2201112",
+    "models": [
+      "灰色关联",
+      "LightGBM",
+      "SVM",
+      "XGB",
+      "XGBoost",
+      "主成分",
+      "五折交叉",
+      "随机森林",
+      "交叉验证",
+      "熵权法",
+      "Stacking",
+      "集成学习"
+    ],
+    "text_len": 6638
+  },
+  {
+    "year": "2022",
+    "file": "2022年MathorCup大数据竞赛优秀论文-4.pdf",
+    "team": "MCB2201021",
+    "title": "队伍编号 MCB2201021",
+    "models": [
+      "灰色关联",
+      "网格搜索",
+      "XGB",
+      "GBDT",
+      "XGBoost",
+      "随机森林",
+      "贝叶斯",
+      "交叉验证",
+      "随机搜索",
+      "CatBoost",
+      "Stacking"
+    ],
+    "text_len": 7969
+  },
+  {
+    "year": "2022",
+    "file": "2022年MathorCup大数据竞赛优秀论文-5.pdf",
+    "team": "MCB2202628",
+    "title": "队伍编号 MCB2202628",
+    "models": [
+      "网格搜索",
+      "随机森林",
+      "交叉验证"
+    ],
+    "text_len": 8209
+  },
+  {
+    "year": "2022",
+    "file": "2022年MathorCup大数据竞赛优秀论文-6.pdf",
+    "team": "MCB2201818",
+    "title": "队伍编号 MCB2201818",
+    "models": [
+      "随机森林",
+      "Lasso"
+    ],
+    "text_len": 7724
+  },
+  {
+    "year": "2022",
+    "file": "2022年MathorCup大数据竞赛优秀论文-7.pdf",
+    "team": "MCB2201899",
+    "title": "队伍编号 MCB2201899",
+    "models": [],
+    "text_len": 6325
+  },
+  {
+    "year": "2022",
+    "file": "2022年MathorCup大数据竞赛优秀论文-8.pdf",
+    "team": "",
+    "title": "队伍编号 2201644",
+    "models": [
+      "XGB",
+      "LightGBM",
+      "XGBoost"
+    ],
+    "text_len": 11604
+  }
+]

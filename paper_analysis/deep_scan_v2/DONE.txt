@@ -1,0 +1,2 @@
+Scan completed. 41 papers processed.
+Errors: 0

@@ -1,0 +1,470 @@
+[
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号: 244",
+    "models": [
+      "时间序列"
+    ]
+  },
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号 335",
+    "models": [
+      "时间序列",
+      "随机森林",
+      "LSTM"
+    ]
+  },
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号 366",
+    "models": []
+  },
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号 824",
+    "models": [
+      "时间序列",
+      "滑动窗口"
+    ]
+  },
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号 1771",
+    "models": [
+      "LSTM"
+    ]
+  },
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号 382",
+    "models": [
+      "U-Net"
+    ]
+  },
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号 604",
+    "models": []
+  },
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号 1248",
+    "models": [
+      "U-Net",
+      "卷积神经",
+      "集成学习"
+    ]
+  },
+  {
+    "year": "2020",
+    "team": "",
+    "title": "队伍编号 1927",
+    "models": [
+      "随机森林",
+      "集成学习"
+    ]
+  },
+  {
+    "year": "2021",
+    "team": "MCB2100090",
+    "title": "队伍编号 MCB2100090",
+    "models": [
+      "贝叶斯优化",
+      "LightGBM",
+      "K-Means",
+      "XGB",
+      "XGBoost",
+      "随机森林",
+      "贝叶斯",
+      "CatBoost",
+      "Stacking"
+    ]
+  },
+  {
+    "year": "2021",
+    "team": "MCB2102360",
+    "title": "队伍编号 MCB2102360",
+    "models": [
+      "随机森林",
+      "GRU"
+    ]
+  },
+  {
+    "year": "2021",
+    "team": "MCB2100593",
+    "title": "队伍编号 MCB2100593",
+    "models": [
+      "贝叶斯优化",
+      "LightGBM",
+      "XGB",
+      "XGBoost",
+      "贝叶斯",
+      "CatBoost",
+      "Stacking"
+    ]
+  },
+  {
+    "year": "2021",
+    "team": "MCB2102791",
+    "title": "队伍编号 MCB2102791",
+    "models": [
+      "强化学习",
+      "Transformer"
+    ]
+  },
+  {
+    "year": "2021",
+    "team": "MCB2102542",
+    "title": "队伍编号 MCB2102542",
+    "models": []
+  },
+  {
+    "year": "2021",
+    "team": "MCB2102047",
+    "title": "队伍编号 MCB2102047",
+    "models": [
+      "灰色关联",
+      "XGB",
+      "GBDT",
+      "BP",
+      "XGBoost",
+      "Boosting",
+      "Bagging",
+      "随机森林",
+      "Stacking",
+      "集成学习"
+    ]
+  },
+  {
+    "year": "2021",
+    "team": "MCB2100868",
+    "title": "队伍编号 MCB2100868",
+    "models": [
+      "SVM",
+      "LightGBM",
+      "XGB",
+      "XGBoost",
+      "随机森林",
+      "交叉验证"
+    ]
+  },
+  {
+    "year": "2021",
+    "team": "MCB2100805",
+    "title": "队伍编号 AMCB2100805",
+    "models": [
+      "贝叶斯优化",
+      "LightGBM",
+      "XGB",
+      "XGBoost",
+      "随机森林",
+      "贝叶斯",
+      "集成学习"
+    ]
+  },
+  {
+    "year": "2022",
+    "team": "MCB2200703",
+    "title": "队伍编号 MCB2200703",
+    "models": [
+      "网格搜索",
+      "XGB",
+      "XGBoost",
+      "主成分",
+      "五折交叉",
+      "随机森林",
+      "交叉验证",
+      "PCA",
+      "集成学习"
+    ]
+  },
+  {
+    "year": "2022",
+    "team": "MCB2200029",
+    "title": "队伍编号 MCB2200029",
+    "models": []
+  },
+  {
+    "year": "2022",
+    "team": "MCB2201112",
+    "title": "队伍编号 MCB2201112",
+    "models": [
+      "灰色关联",
+      "LightGBM",
+      "SVM",
+      "XGB",
+      "XGBoost",
+      "主成分",
+      "五折交叉",
+      "随机森林",
+      "交叉验证",
+      "熵权法",
+      "Stacking",
+      "集成学习"
+    ]
+  },
+  {
+    "year": "2022",
+    "team": "MCB2201021",
+    "title": "队伍编号 MCB2201021",
+    "models": [
+      "灰色关联",
+      "网格搜索",
+      "XGB",
+      "GBDT",
+      "XGBoost",
+      "随机森林",
+      "贝叶斯",
+      "交叉验证",
+      "随机搜索",
+      "CatBoost",
+      "Stacking"
+    ]
+  },
+  {
+    "year": "2022",
+    "team": "MCB2202628",
+    "title": "队伍编号 MCB2202628",
+    "models": [
+      "网格搜索",
+      "随机森林",
+      "交叉验证"
+    ]
+  },
+  {
+    "year": "2022",
+    "team": "MCB2201818",
+    "title": "队伍编号 MCB2201818",
+    "models": [
+      "随机森林",
+      "Lasso"
+    ]
+  },
+  {
+    "year": "2022",
+    "team": "MCB2201899",
+    "title": "队伍编号 MCB2201899",
+    "models": []
+  },
+  {
+    "year": "2022",
+    "team": "",
+    "title": "队伍编号 2201644",
+    "models": [
+      "XGB",
+      "LightGBM",
+      "XGBoost"
+    ]
+  },
+  {
+    "year": "2023",
+    "team": "MCB2302202",
+    "title": "队伍编号 MCB2302202",
+    "models": [
+      "集成学习",
+      "PCA"
+    ]
+  },
+  {
+    "year": "2023",
+    "team": "MCB2303012",
+    "title": "队伍编号 MCB2303012",
+    "models": [
+      "ResNet",
+      "CNN"
+    ]
+  },
+  {
+    "year": "2023",
+    "team": "MCB2302973",
+    "title": "队伍编号 MCB2302973",
+    "models": [
+      "注意力机制",
+      "卷积神经",
+      "注意力"
+    ]
+  },
+  {
+    "year": "2023",
+    "team": "MCB2300890",
+    "title": "队伍编号 MCB2300890",
+    "models": [
+      "交叉验证",
+      "Transformer"
+    ]
+  },
+  {
+    "year": "2023",
+    "team": "MCB2302397",
+    "title": "队伍编号 MCB2302397",
+    "models": [
+      "交叉验证",
+      "XGBoost",
+      "滑动窗口",
+      "指数平滑",
+      "集成学习",
+      "XGB",
+      "LSTM",
+      "K-means",
+      "LightGBM",
+      "SVM",
+      "ARIMA"
+    ]
+  },
+  {
+    "year": "2023",
+    "team": "MCB2302926",
+    "title": "队伍编号 MCB2302926",
+    "models": [
+      "PCA",
+      "LSTM",
+      "时间序列",
+      "主成分",
+      "ARIMA"
+    ]
+  },
+  {
+    "year": "2023",
+    "team": "MCB2301622",
+    "title": "队伍编号 MCB2301622",
+    "models": [
+      "皮尔逊",
+      "集成学习",
+      "DBSCAN",
+      "随机森林",
+      "指数平滑",
+      "SVM",
+      "主成分",
+      "ARIMA",
+      "Stacking"
+    ]
+  },
+  {
+    "year": "2023",
+    "team": "MCB2302632",
+    "title": "队伍编号 MCB2302632",
+    "models": [
+      "时间序列",
+      "ARIMA",
+      "灰色预测"
+    ]
+  },
+  {
+    "year": "2024",
+    "team": "MCB2400837",
+    "title": "队伍编号 MCB2400837",
+    "models": [
+      "DTW",
+      "RNN",
+      "注意力",
+      "层次聚类",
+      "动态时间规整",
+      "神经网络",
+      "LSTM"
+    ]
+  },
+  {
+    "year": "2024",
+    "team": "MCB2401349",
+    "title": "队伍编号 MCB2401349",
+    "models": [
+      "DTW",
+      "K-means",
+      "神经网络",
+      "动态时间规整",
+      "斯皮尔曼",
+      "LSTM"
+    ]
+  },
+  {
+    "year": "2024",
+    "team": "MCB2401113",
+    "title": "队伍编号 MCB2401113",
+    "models": [
+      "DTW",
+      "注意力",
+      "K-means",
+      "动态时间规整",
+      "CHk-means",
+      "神经网络",
+      "LSTM"
+    ]
+  },
+  {
+    "year": "2024",
+    "team": "MCB2401996",
+    "title": "队伍编号 MCB2401996",
+    "models": [
+      "FP-Growth",
+      "神经网络",
+      "随机森林",
+      "BP"
+    ]
+  },
+  {
+    "year": "2024",
+    "team": "MCB2403007",
+    "title": "队伍编号 MCB2403007",
+    "models": [
+      "ARIMA",
+      "线性规划",
+      "SARIMA",
+      "随机森林",
+      "模拟退火"
+    ]
+  },
+  {
+    "year": "2024",
+    "team": "MCB2400002",
+    "title": "队伍编号 MCB2400002",
+    "models": [
+      "XGBoost",
+      "ARIMA",
+      "K-means",
+      "随机森林",
+      "LightGBM",
+      "XGB",
+      "LSTM",
+      "xgboost",
+      "Lightgbm"
+    ]
+  },
+  {
+    "year": "2024",
+    "team": "MCB2400673",
+    "title": "队伍编号 MCB2400673",
+    "models": [
+      "XGBoost",
+      "粒子群",
+      "线性规划",
+      "随机森林",
+      "XGB",
+      "xgboost"
+    ]
+  },
+  {
+    "year": "2024",
+    "team": "MCB2401427",
+    "title": "队伍编号 MCB2401427",
+    "models": [
+      "XGBoost",
+      "粒子群",
+      "随机森林",
+      "BP",
+      "模拟退火",
+      "XGB",
+      "神经网络",
+      "LSTM",
+      "xgboost"
+    ]
+  }
+]
