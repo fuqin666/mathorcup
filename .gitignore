@@ -31,3 +31,26 @@ Thumbs.db
 # Personal temp scripts
 _tw_*.bat
 _tw_*.py
+
+# =====================
+# Workspace-specific
+# =====================
+# Paper scan scripts (one-time use)
+parse_*.py
+
+# Traffic prediction project (competition work)
+traffic_prediction/
+
+# Intermediate text files from doc extraction
+v2_content.txt
+v3_content.txt
+v3_content_full.txt
+
+# Doc generation scripts
+generate_doc.js
+
+# Accidentally created directory (literal "~")
+"~"
+
+# mathorcup-model skill outline (generated, not source)
+# mathorcup-model-skill-outline.md
