@@ -52,5 +52,8 @@ generate_doc.js
 # Accidentally created directory (literal "~")
 "~"
 
+# Root-level npm file (workspace helper, not source)
+package.json
+
 # mathorcup-model skill outline (generated, not source)
 # mathorcup-model-skill-outline.md
